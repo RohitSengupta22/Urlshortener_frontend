@@ -1,0 +1,7 @@
+.arrow {
+    position: relative;
+    left: 95%;
+    top: -55px; /* Adjust this value to your desired positioning */
+    z-index: 4;
+  }
+  
